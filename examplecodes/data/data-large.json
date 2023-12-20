@@ -1,0 +1,238 @@
+[
+  {
+    "product": "pencil",
+    "review": "This pencil glides across the page so smoothly, and the lead never breaks! Love it!"
+  },
+  {
+    "product": "pencil",
+    "review": "Worst pencil ever! The wood cracks constantly, and the lead smudges everywhere."
+  },
+  {
+    "product": "pencil",
+    "review": "It's a pencil. It writes. Not amazing, not terrible. Does the job, I guess."
+  },
+  {
+    "product": "notebook",
+    "review": "This notebook is a dream come true! The paper is thick and fountain pen-friendly, and the binding lies flat perfectly."
+  },
+  {
+    "product": "notebook",
+    "review": "Lines are too faint, paper feels cheap, and the spiral binding keeps catching on my clothes. Ugh!"
+  },
+  {
+    "product": "notebook",
+    "review": "Not bad, not great. Decent paper, sturdy cover, but the size is a bit awkward. Would consider again for occasional use."
+  },
+  {
+    "product": "coloring book",
+    "review": "My kiddo had hours of fun with this coloring book! The illustrations are adorable and detailed, and the lines are thick enough for little hands."
+  },
+  {
+    "product": "coloring book",
+    "review": "Seriously? Half the pages are blank! And the ones with patterns are too intricate for younger kids. Waste of money."
+  },
+  {
+    "product": "coloring book",
+    "review": "It's a coloring book. My kid enjoys it, but I wish the themes were less stereotypical. Could use more diversity in both characters and colors."
+  },
+  {
+    "product": "pencil",
+    "review": "This mechanical pencil is a life saver! The lead never needs sharpening, and the grip is super comfortable."
+  },
+  {
+    "product": "pencil",
+    "review": "So disappointed! The eraser on this pencil is practically useless. Leaves streaks and smudges everywhere."
+  },
+  {
+    "product": "pencil",
+    "review": "I prefer classic wooden pencils, but this one is pretty handy for quick notes on the go. The eraser could be better, though."
+  },
+  {
+    "product": "notebook",
+    "review": "Obsessed with this vegan leather notebook! The cover is so soft and luxurious, and the pages are lined beautifully."
+  },
+  {
+    "product": "notebook",
+    "review": "Ugh, this notebook smells like chemicals! Can't even stand to open it. Returning immediately."
+  },
+  {
+    "product": "notebook",
+    "review": "Solid notebook for everyday use. Plenty of pages, good paper quality, and the price is right. Would recommend."
+  },
+  {
+    "product": "coloring book",
+    "review": "This glow-in-the-dark coloring book is awesome! My kids love making their creations come alive in the dark."
+  },
+  {
+    "product": "coloring book",
+    "review": "The illustrations in this book are so beautiful and inspiring! Makes me want to grab my own crayons and get creative."
+  },
+  {
+    "product": "coloring book",
+    "review": "Too many tiny details for my toddler. Frustrates him more than it entertains. Would be better for older kids."
+  },
+  {
+    "product": "pencil",
+    "review": "These colored pencils are so vibrant and blend like a dream! Perfect for artists of all levels."
+  },
+  {
+    "product": "pencil",
+    "review": "This set of pencils came with two broken ones. Not impressed with the quality control."
+  },
+  {
+    "product": "pencil",
+    "review": "Always keep a pack of these in my bag. Great for quick sketches, marking up maps, or jotting down ideas."
+  },
+  {
+    "product": "notebook",
+    "review": "Love the dotted grid pages in this notebook! Perfect for bullet journaling and mind mapping."
+  },
+  {
+    "product": "notebook",
+    "review": "The pages in this notebook are super thin. Can see the penmanship from the other side! Not ideal for note-taking."
+  },
+  {
+    "product": "notebook",
+    "review": "This notebook is a lifesaver for brainstorming sessions! The pages are big enough for all my crazy ideas, and the back pocket is perfect for storing loose notes."
+  },
+  {
+    "product": "coloring book",
+    "review": "This mandala coloring book is so relaxing! The intricate patterns help me de-stress and get lost in the moment."
+  },
+  {
+    "product": "coloring book",
+    "review": "The historical themes in this coloring book are fascinating! I learned so much while coloring the detailed illustrations."
+  },
+  {
+    "product": "pencil",
+    "review": "These watercolor pencils are a delight! They create beautiful vibrant washes and subtle gradients."
+  },
+  {
+    "product": "pencil",
+    "review": "This pencil sharpener is a game-changer! It gets my pencils to a perfect point every time, no more broken lead."
+  },
+  {
+    "product": "pencil",
+    "review": "I bought this pencil set for my kids, but I end up using them myself! The chunky grip is perfect for small hands and big imaginations."
+  },
+  {
+    "product": "notebook",
+    "review": "This travel-sized notebook is always in my backpack! Perfect for capturing inspiration on the go."
+  },
+  {
+    "product": "notebook",
+    "review": "The refillable pages in this notebook are a genius idea! No more wasted paper when I make mistakes."
+  },
+  {
+    "product": "notebook",
+    "review": "This notebook with a built-in pen holder is such a small detail, but it makes a big difference! No more scrambling for a pen when I need to jot something down."
+  },
+  {
+    "product": "coloring book",
+    "review": "This adult coloring book is full of hilarious scenes and puns! I laugh as much as I color."
+  },
+  {
+    "product": "coloring book",
+    "review": "The nature illustrations in this coloring book are so peaceful and calming. Perfect for a quiet evening in."
+  },
+  {
+    "product": "coloring book",
+    "review": "I love that this coloring book has both intricate designs and more simple ones. My whole family can enjoy it together."
+  },
+  {
+    "product": "pencil",
+    "review": "This mechanical pencil feels sleek and futuristic, but the lead snaps way too easily. Frustrating!"
+  },
+  {
+    "product": "pencil",
+    "review": "Classic wooden pencils just can't be beat. Reliable, affordable, and always there when you need them."
+  },
+  {
+    "product": "pencil",
+    "review": "These ergonomic pencils are a godsend for my hand cramp! Makes writing long essays a breeze."
+  },
+  {
+    "product": "notebook",
+    "review": "This notebook has a built-in bookmark, water-resistant paper, and a hidden pocket for notes. What more could you ask for?"
+  },
+  {
+    "product": "notebook",
+    "review": "The pages in this notebook are too smooth! My penmanship ends up looking like fancy chicken scratch."
+  },
+  {
+    "product": "notebook",
+    "review": "This lined notebook with page numbers is my organizational dream come true. No more lost notes or confusion."
+  },
+  {
+    "product": "coloring book",
+    "review": "This coloring book is full of inspiring quotes and affirmations. Makes me feel good while I color."
+  },
+  {
+    "product": "coloring book",
+    "review": "The colors in this coloring book are dull and uninspiring. Feels like someone just photocopied old illustrations."
+  },
+  {
+    "product": "coloring book",
+    "review": "This coloring book is perfect for my little artist! Large spaces, simple designs, and washable markers, what more could you ask for?"
+  },
+  {
+    "product": "pencil",
+    "review": "This set of colored pencils comes in the most gorgeous rainbow hues. Feels like pure creativity in a box."
+  },
+  {
+    "product": "pencil",
+    "review": "These charcoal pencils are perfect for sketching and shading. I can create such depth and realism with them."
+  },
+  {
+    "product": "pencil",
+    "review": "Always lose my pencil caps? These retractable pencils are a lifesaver! No more wasted caps or messy pockets."
+  },
+  {
+    "product": "notebook",
+    "review": "This notebook has a built-in light! Perfect for late-night study sessions or taking notes in dimly lit places."
+  },
+  {
+    "product": "notebook",
+    "review": "The paper in this notebook is just too thin. Ink bleeds through easily, making it hard to read my notes."
+  },
+  {
+    "product": "notebook",
+    "review": "I love the spiral binding in this notebook! Lies flat perfectly and makes flipping through pages a breeze."
+  },
+  {
+    "product": "coloring book",
+    "review": "This coloring book is filled with intricate mandalas and geometric patterns. Great for mindfulness and focus."
+  },
+  {
+    "product": "coloring book",
+    "review": "This coloring book features historical maps and scenes. Educational and fun for the whole family."
+  },
+  {
+    "product": "coloring book",
+    "review": "The paper in this coloring book is super thick and textured. Feels like coloring on canvas! But my markers bleed a bit."
+  },
+  {
+    "product": "pencil",
+    "review": "These erasable pencils are a game-changer for mistakes! No more messy smudges or wasted paper."
+  },
+  {
+    "product": "pencil",
+    "review": "This multi-colored pen is a fun novelty, but the colors are too light and faded to be practical."
+  },
+  {
+    "product": "pencil",
+    "review": "These personalized pencils with my name on them make a great and unique gift! Plus, I can never lose them again."
+  },
+  {
+    "product": "notebook",
+    "review": "This leather-bound notebook feels luxurious and timeless. Perfect for important notes or creative projects."
+  },
+  {
+    "product": "notebook",
+    "review": "This notebook has a password lock! Keeps my secrets safe and adds a touch of intrigue."
+  },
+  {
+    "product": "notebook",
+    "review": "The pages in this notebook are perforated, so I can easily tear them out and share my notes or sketches."
+  }
+]
